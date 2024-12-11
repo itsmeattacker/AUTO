@@ -1,6 +1,8 @@
 
 ## Overview
 
+## use with your own responsiblty and author is not responsible. 
+
 AUTO is an automated domain reconnaissance tool designed to streamline the process of gathering information about target domains. By integrating various tools, AUTO automates the collection of subdomains, checks for vulnerabilities, and gathers related information, storing results in a structured manner for further analysis.
 
 ![Screenshot 2024-06-25 203557](https://github.com/itsmeattacker/AUTO/assets/170360169/09bbd781-63b2-46d2-ba3e-d5cc72f89c2e)
